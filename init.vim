@@ -23,6 +23,7 @@ Plug 'vim-pandoc/vim-pandoc'
 Plug 'rwxrob/vim-pandoc-syntax-simple'
 Plug 'https://github.com/koirand/tokyo-metro.vim' " colorscheme
 Plug 'vimsence/vimsence'
+Plug 'preservim/tagbar'
 
 set encoding=UTF-8
 
