@@ -55,6 +55,7 @@ if filereadable(expand("~/.vim/autoload/plug.vim"))
     Plug 'https://github.com/w0rp/ale'
     Plug 'https://github.com/jaxbot/semantic-highlight.vim'
     Plug 'https://github.com/nathanaelkane/vim-indent-guides'
+    Plug 'preservim/tagbar'
     call plug#end()   
     let g:go_fmt_fail_silently = 0 " let me out even with errors   
     let g:go_fmt_command = 'goimports' " autoupdate import   
