@@ -1,0 +1,12 @@
+import = ["/home/cr1m3s/.config/alacritty/alacritty-master/dracula.toml"]
+live_config_reload = true
+
+[window]
+opacity = 0.85
+
+[font]
+size = 14.0
+
+[font.normal]
+family = "Comic Mono"
+
